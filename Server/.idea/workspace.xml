@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="server" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="447ff0c5-7a57-4c3b-b2d4-a5d526f3b51c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="servertmp_lab7" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1chXvyfszQz6TNX29CHlf7b2Xjy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/postgresql-42.2.14.jar!/" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kiril\IdeaProjects\servertmp\src" />
+      <recent name="C:\Users\kiril\IdeaProjects\servertmp\src\lab" />
+      <recent name="C:\Users\kiril\IdeaProjects\servertmp\src\lab\Collection" />
+      <recent name="C:\Users\kiril\IdeaProjects\servertmp\src\a\" />
+    </key>
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="lab.ServerSocket" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lab.Commands.ConcreteCommands" />
+      <recent name="lab" />
+      <recent name="lab.Commands" />
+      <recent name="" />
+      <recent name="ServerSocket" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kiril\IdeaProjects\servertmp\lib" />
+      <recent name="C:\Users\kiril\IdeaProjects\servertmp\src\lab\Commands\ConcreteCommands" />
+      <recent name="C:\Users\kiril\IdeaProjects\servertmp\src\lab" />
+      <recent name="C:\Users\kiril\IdeaProjects\servertmp\src\Commands\ConcreteCommands" />
+      <recent name="C:\Users\kiril\IdeaProjects\servertmp\src\Commands" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lab.Main" />
+      <module name="servertmp_lab7" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="447ff0c5-7a57-4c3b-b2d4-a5d526f3b51c" name="Default Changelist" comment="" />
+      <created>1590982032799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590982032799</updated>
+      <workItem from="1590982034414" duration="3980000" />
+      <workItem from="1590986090410" duration="560000" />
+      <workItem from="1590986666089" duration="161000" />
+      <workItem from="1590986865897" duration="5221000" />
+      <workItem from="1591211065625" duration="29915000" />
+      <workItem from="1591567903380" duration="4000" />
+      <workItem from="1592241005980" duration="1000" />
+      <workItem from="1592241022325" duration="14283000" />
+      <workItem from="1592299547445" duration="5748000" />
+      <workItem from="1592388106502" duration="12000" />
+      <workItem from="1592415604844" duration="9743000" />
+      <workItem from="1592438232662" duration="26088000" />
+      <workItem from="1592828904754" duration="8440000" />
+      <workItem from="1592861861031" duration="93000" />
+      <workItem from="1592861988719" duration="2161000" />
+      <workItem from="1592866653335" duration="746000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Inspections" timestamp="1590985867364">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1590985867364" />
+    <state x="361" y="70" key="#SQL_Dialects" timestamp="1592446683923">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#SQL_Dialects/0.0.1536.824@0.0.1536.824" timestamp="1592446683923" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592460379981">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592460379981" />
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1592443669057">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1592443669057" />
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592298622431">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1592298622431" />
+    <state x="566" y="297" width="403" height="277" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591220647425">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="297" width="403" height="277" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1591220647425" />
+    <state x="564" y="248" key="#com.intellij.refactoring.move.moveInner.MoveInnerDialog" timestamp="1591221329558">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="564" y="248" key="#com.intellij.refactoring.move.moveInner.MoveInnerDialog/0.0.1536.824@0.0.1536.824" timestamp="1591221329558" />
+    <state x="504" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591221610565">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="504" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1591221610565" />
+    <state x="883" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592425810518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="883" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1592425810518" />
+    <state x="473" y="153" key="FileChooserDialogImpl" timestamp="1592867367150">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592867367150" />
+    <state width="1493" height="173" key="GridCell.Tab.0.bottom" timestamp="1592856336358">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="173" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592856336358" />
+    <state width="1493" height="173" key="GridCell.Tab.0.center" timestamp="1592856336357">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="173" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592856336357" />
+    <state width="1493" height="173" key="GridCell.Tab.0.left" timestamp="1592856336357">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="173" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592856336357" />
+    <state width="1493" height="173" key="GridCell.Tab.0.right" timestamp="1592856336358">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="173" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592856336358" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1591477973006">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591477973006" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1591477973005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591477973005" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1591477973005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591477973005" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1591477973006">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591477973006" />
+    <state x="302" y="109" key="SettingsEditor" timestamp="1592867052911">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="302" y="109" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592867052911" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1592866664778">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592866664778" />
+    <state x="498" y="305" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1590982309809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="305" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1590982309809" />
+    <state x="463" y="144" width="631" height="568" key="find.popup" timestamp="1592864733945">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="463" y="144" width="631" height="568" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1592864733945" />
+    <state x="407" y="0" key="new project wizard" timestamp="1592867375218">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="407" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1592867375218" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1591223801489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1591223801489" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1592451873364">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592451873364" />
+  </component>
+</project>

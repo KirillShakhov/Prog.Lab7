@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="client" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ceb1b8d-bc3c-409a-99ee-87077618c053" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1chYlWmyvkJv4OQLvqngi4vIr1n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/BetaLab6-master" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kiril\IdeaProjects\clienttmp\src\lab" />
+      <recent name="C:\Users\kiril\IdeaProjects\clienttmp\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lab.Commands.ConcreteCommands" />
+      <recent name="Commands" />
+      <recent name="Commands.Utils" />
+      <recent name="Commands.Utils.Readers.EnumReaders.NotPrimitiveReaders" />
+      <recent name="Commands.Utils.Readers.EnumReaders" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kiril\IdeaProjects\clienttmp\src\lab\Commands\ConcreteCommands" />
+      <recent name="C:\Users\kiril\IdeaProjects\clienttmp\src\lab" />
+      <recent name="C:\Users\kiril\IdeaProjects\clienttmp\src\Commands\Utils\Readers\PrimitiveAndReferenceReaders" />
+      <recent name="C:\Users\kiril\IdeaProjects\clienttmp\src\Commands\Utils\Readers" />
+      <recent name="C:\Users\kiril\IdeaProjects\clienttmp\src\BasicClasses" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" singleton="false" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lab.Main" />
+      <module name="clienttmp_lab7" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ceb1b8d-bc3c-409a-99ee-87077618c053" name="Default Changelist" comment="" />
+      <created>1590982443478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590982443478</updated>
+      <workItem from="1590982445078" duration="3043000" />
+      <workItem from="1590986401810" duration="425000" />
+      <workItem from="1590988133886" duration="4223000" />
+      <workItem from="1590992684730" duration="23000" />
+      <workItem from="1591211070866" duration="28738000" />
+      <workItem from="1592241012892" duration="13356000" />
+      <workItem from="1592299548943" duration="9649000" />
+      <workItem from="1592415895205" duration="11059000" />
+      <workItem from="1592438186867" duration="13934000" />
+      <workItem from="1592477355234" duration="2642000" />
+      <workItem from="1592828900215" duration="5987000" />
+      <workItem from="1592861866331" duration="88000" />
+      <workItem from="1592861989123" duration="2059000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Project_Structure" timestamp="1592300441850">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1592300441850" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592302010889">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592302010889" />
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1592441674298">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1592441674298" />
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592300431743">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1592300431743" />
+    <state x="473" y="95" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1592443918568">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="95" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592443918568" />
+    <state x="883" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592441589676">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="883" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1592441589676" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1592473040116">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592473040116" />
+    <state width="1493" height="468" key="GridCell.Tab.0.bottom" timestamp="1592853608155">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="468" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592853608155" />
+    <state width="1493" height="468" key="GridCell.Tab.0.center" timestamp="1592853608154">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="468" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592853608154" />
+    <state width="1493" height="468" key="GridCell.Tab.0.left" timestamp="1592853608154">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="468" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592853608154" />
+    <state width="1493" height="468" key="GridCell.Tab.0.right" timestamp="1592853608155">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="468" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592853608155" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1591477953755">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591477953755" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1591477953754">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591477953754" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1591477953754">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591477953754" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1591477953754">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591477953754" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1592861745377">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592861745377" />
+    <state x="848" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1592864711205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="848" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592864711205" />
+    <state x="462" y="144" width="631" height="568" key="find.popup" timestamp="1592864727365">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="462" y="144" width="631" height="568" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1592864727365" />
+    <state x="475" y="40" key="refactoring.ChangeSignatureDialog" timestamp="1591227514136">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="40" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1591227514136" />
+  </component>
+</project>
